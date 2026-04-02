@@ -5,6 +5,7 @@ import {
   LISTEYE_EKLE,
   LISTEDEN_CIKAR,
 } from "../actions/index.js";
+// APP URL: "https://fsweb-s10g3-redux-watchlist-solutio-eight-mu.vercel.app/"
 const initialState = {
   // TODO: Remove splice
   movies: movies,
